@@ -1,1 +1,1 @@
-Codes written for machineLearning course at the UNT
+Codes written for the ML course at UNT
